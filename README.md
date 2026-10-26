@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Data-Privacy/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Data-Privacy?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Data-Privacy/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Data-Privacy?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Data-Privacy/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Data-Privacy?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Data-Privacy/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Data-Privacy/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Data-Privacy?style=flat-square&color=red" alt="Open Issues" /></a>
@@ -103,7 +103,7 @@ Contributions are warmly welcomed! 💖
 
 1. 🍴 Fork the repository.
 2. 🌿 Create a descriptive feature branch (`git checkout -b feature/add-new-privacy-tool`).
-3. 📝 Add your entry with specific pricing/free-tier details (for SaaS) or GitHub star count badges (for Open Source).
+3. 📝 Add your entry with specific pricing/free-tier details (for SaaS) or GitHub Stars_Count badges (for Open Source).
 4. ✅ Ensure proper formatting and markdown link integrity.
 5. 🚀 Submit a pull request!
 
