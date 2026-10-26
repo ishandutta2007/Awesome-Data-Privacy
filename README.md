@@ -27,6 +27,8 @@
   - [Ranked Open-Source Repositories](#ranked-open-source-repositories)
 - [📚 Regulatory Frameworks & Compliance Guides](#-regulatory-frameworks--compliance-guides)
 - [🤝 Contributing](#-contributing)
+- [💖 Support](#-support)
+- [⭐ Star History](#star-history)
 - [📄 License](#-license)
 
 ---
@@ -104,6 +106,28 @@ Contributions are warmly welcomed! 💖
 3. 📝 Add your entry with specific pricing/free-tier details (for SaaS) or GitHub star count badges (for Open Source).
 4. ✅ Ensure proper formatting and markdown link integrity.
 5. 🚀 Submit a pull request!
+
+---
+
+## 💖 Support
+
+If you find this repository valuable for your work, research, or compliance journey, thank you for supporting the project! You can show your appreciation in several ways:
+
+- ⭐ **Star this repository** to help others discover it on GitHub.
+- 🍴 **Fork and contribute** new data privacy tools, benchmarks, and updates.
+- 📢 **Share it** with fellow privacy engineers, data protection officers (DPOs), and security researchers.
+- ☕ **Buy me a coffee / Sponsor:** Support ongoing maintenance and curated updates directly via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="left">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub" />
+  </a>
+</p>
+
+---
+
+##  Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Data-Privacy&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Data-Privacy&type=date&legend=top-left)
 
 ---
 
