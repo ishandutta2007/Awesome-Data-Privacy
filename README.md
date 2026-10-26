@@ -103,7 +103,7 @@ Contributions are warmly welcomed! 💖
 
 1. 🍴 Fork the repository.
 2. 🌿 Create a descriptive feature branch (`git checkout -b feature/add-new-privacy-tool`).
-3. 📝 Add your entry with specific pricing/free-tier details (for SaaS) or GitHub Stars_Count badges (for Open Source).
+3. 📝 Add your entry with specific pricing/free-tier details (for SaaS) or GitHub_Stars_Count badges (for Open Source).
 4. ✅ Ensure proper formatting and markdown link integrity.
 5. 🚀 Submit a pull request!
 
